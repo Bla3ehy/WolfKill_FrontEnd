@@ -5,3 +5,4 @@
 * imgur API
 * Vue.js
 * SignalR
+* SignalR Unit Test
