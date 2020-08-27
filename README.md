@@ -4,3 +4,4 @@
 * jQuery
 * imgur API
 * Vue.js
+* SignalR
